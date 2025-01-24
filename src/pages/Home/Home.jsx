@@ -10,7 +10,6 @@ const Home = () => {
         <div>
             <Header/>
             <ExploreMenu category={category} setCategory={setCategory}/>
-            {/* <FoodDisplay categor ={category}/> 1:06:00*/} 
         </div>
     )
 }

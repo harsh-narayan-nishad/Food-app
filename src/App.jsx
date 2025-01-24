@@ -16,6 +16,9 @@ const App = () => {
         <Route path ='/cart' element = {<Cart/>} />
         <Route path ='/order' element ={<PlaceOrder/>}/>
       </Routes>
+
+      <h1>this</h1>
+      
     </div>
   )
 }
